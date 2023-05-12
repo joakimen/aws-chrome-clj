@@ -1,4 +1,4 @@
-(ns aws.aws-vault.aws-chrome
+(ns aws-chrome
   "open an isolated chrome instance with the specified aws-profile"
   (:require [babashka.process :as p]
             [clojure.string :as str]
