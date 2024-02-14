@@ -1,3 +1,6 @@
+> [!WARNING]
+> Superseded by https://github.com/joakimen/awsvault.clj
+
 # aws-chrome-clj
 
 [![lint](https://github.com/joakimen/aws-chrome-clj/actions/workflows/lint.yml/badge.svg)](https://github.com/joakimen/aws-chrome-clj/actions/workflows/lint.yml)
